@@ -1,2 +1,2 @@
 # CodeClauseInternship_Java
-Projects on Java Programming
+Projects on Java Programming Internship
